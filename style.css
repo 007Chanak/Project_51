@@ -1,0 +1,26 @@
+h1
+{
+    color: white;
+}
+
+.header
+{
+    background-color: #000033;
+
+    display:flex;
+    justify-content: space-between;
+}
+
+.grid
+{
+    background-color: #B30000;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+p,h2
+{
+    color: #002A00;
+    text-align: center;
+}
